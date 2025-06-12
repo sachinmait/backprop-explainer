@@ -12,15 +12,5 @@ import Acknowledge from "./implementations/article/Acknowledge";
 import Nav from "./implementations/article/Nav";
 
 export {
-	NeuralNetworkComponent,
-	ScatterPlot,
-	AnimatedScatterPlot,
-	Loss,
-	BackpropExplainer,
-	Typeset,
-	Header,
-	Article,
-	Summary,
-	Acknowledge,
-	Nav,
+	Article
 };
